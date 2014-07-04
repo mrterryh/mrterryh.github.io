@@ -4,13 +4,13 @@ body {
 }
 
 .container {
-	text-align: center;
 	margin: 0 auto;
 }
 
 @media only screen 
 and (min-width : 1224px) {
 	.container {
+		text-align: center;
 		width: 50%;
 	}
 }
